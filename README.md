@@ -1,6 +1,6 @@
 # PRIMERA VERSIÓN DE PROYECTO EN JSP
 
-Con los elementos aprendidos hasta el momento capaz de migrar mi proyecto de la unidad pasada desarrollado en PHP hacia un nuevo lenguaje de programación como Java, Para ello fue necesario utilizar y mejorar algunos de sus elementos, tambien requerí añadir elementos de seguridad contra curiosos a la página web, por lo cual la valide:<br>
+Con los elementos aprendidos hasta el momento fui capaz de migrar mi proyecto de la unidad pasada desarrollado en PHP hacia un nuevo lenguaje de programación como Java, Para ello fue necesario utilizar y mejorar algunos de sus elementos, tambien requerí añadir elementos de seguridad contra curiosos a la página web, por lo cual la valide con:<br>
 
 
 1. routing.jsp
